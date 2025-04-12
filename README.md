@@ -2,4 +2,4 @@
 
 ** v14 Prefixli bir bottur geliştirmeye baya bir müsaittir  **
 
-__discord: _zypheris__
+_discord: _zypheris__
